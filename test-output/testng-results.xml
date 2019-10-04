@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-04T13:38:58Z" name="Default suite" finished-at="2019-10-04T13:39:22Z" duration-ms="23688">
+    <groups>
+    </groups>
+    <test started-at="2019-10-04T13:38:58Z" name="Default test" finished-at="2019-10-04T13:39:22Z" duration-ms="23688">
+      <class name="atmecs.com.atmecs.konakart.TestScriptSecinario1">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:atmecs.com.atmecs.konakart.TestScriptSecinario1@5e82df6a]" started-at="2019-10-04T19:08:58Z" name="invokeBrowser" finished-at="2019-10-04T19:09:15Z" duration-ms="16193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="productvalidation([Ljava.lang.String;)[pri:0, instance:atmecs.com.atmecs.konakart.TestScriptSecinario1@5e82df6a]" started-at="2019-10-04T19:09:15Z" name="productvalidation" data-provider="destination" finished-at="2019-10-04T19:09:22Z" duration-ms="6562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4d6f197e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productvalidation -->
+      </class> <!-- atmecs.com.atmecs.konakart.TestScriptSecinario1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
